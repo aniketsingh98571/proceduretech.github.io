@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="17.69" height="22.2" viewBox="0 0 17.69 22.2">
-  <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right" transform="translate(0.845 16.6) rotate(-90)" opacity="0.821">
-    <path id="Path_39" data-name="Path 39" d="M0,0H16" transform="translate(0 8)" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"></path>
-    <path id="Path_40" data-name="Path 40" d="M0,0,9.668,8,0,16" transform="translate(6.332 0)" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"></path>
-    <path id="Path_577" data-name="Path 577" d="M0,0H16" transform="translate(-5) rotate(90)" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"></path>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.69" height="22.2" viewBox="0 0 17.69 22.2"><g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right" opacity=".821" transform="translate(0.845 16.6) rotate(-90)"><path id="Path_39" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M0,0H16" data-name="Path 39" transform="translate(0 8)"/><path id="Path_40" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M0,0,9.668,8,0,16" data-name="Path 40" transform="translate(6.332 0)"/><path id="Path_577" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="M0,0H16" data-name="Path 577" transform="translate(-5) rotate(90)"/></g></svg>

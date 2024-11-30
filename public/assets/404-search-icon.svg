@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="21.594" height="22.737" viewBox="0 0 21.594 22.737">
-  <g id="Group_1939" data-name="Group 1939" transform="translate(-563 -451)">
-    <g id="Ellipse_268" data-name="Ellipse 268" transform="translate(563 451)" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-width="1.2" opacity="0.82">
-      <circle cx="9" cy="9" r="9" stroke="none"/>
-      <circle cx="9" cy="9" r="8.4" fill="none"/>
-    </g>
-    <path id="Path_623" data-name="Path 623" d="M10661.729-11586.127l6.017,6.017" transform="translate(-10084 12053)" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-width="1.2" opacity="0.82"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="21.594" height="22.737" viewBox="0 0 21.594 22.737"><g id="Group_1939" data-name="Group 1939" transform="translate(-563 -451)"><g id="Ellipse_268" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-width="1.2" data-name="Ellipse 268" opacity=".82" transform="translate(563 451)"><circle cx="9" cy="9" r="9" stroke="none"/><circle cx="9" cy="9" r="8.4" fill="none"/></g><path id="Path_623" fill="none" stroke="#a9a9a9" stroke-linecap="round" stroke-width="1.2" d="M10661.729-11586.127l6.017,6.017" data-name="Path 623" opacity=".82" transform="translate(-10084 12053)"/></g></svg>

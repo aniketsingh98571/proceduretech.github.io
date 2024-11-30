@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="37.94" height="37.94" viewBox="0 0 37.94 37.94">
-  <g id="youtube" transform="translate(-53.14 -0.03)">
-    <path id="Path_153" data-name="Path 153" d="M284.268.149a18.97,18.97,0,1,0,18.97,18.97A18.97,18.97,0,0,0,284.268.149m10.784,23.293a3.224,3.224,0,0,1-3.224,3.225H276.708a3.224,3.224,0,0,1-3.224-3.225V14.8a3.224,3.224,0,0,1,3.224-3.225h15.119a3.224,3.224,0,0,1,3.224,3.225Z" transform="translate(-212.158 -0.119)" fill="#fff" fill-rule="evenodd"></path>
-    <path id="Path_154" data-name="Path 154" d="M349.237,83.577l6.16-4.062-6.16-4.06Z" transform="translate(-279.283 -60.342)" fill="#fff" fill-rule="evenodd"></path>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="37.94" height="37.94" viewBox="0 0 37.94 37.94"><g id="youtube" transform="translate(-53.14 -0.03)"><path id="Path_153" fill="#fff" fill-rule="evenodd" d="M284.268.149a18.97,18.97,0,1,0,18.97,18.97A18.97,18.97,0,0,0,284.268.149m10.784,23.293a3.224,3.224,0,0,1-3.224,3.225H276.708a3.224,3.224,0,0,1-3.224-3.225V14.8a3.224,3.224,0,0,1,3.224-3.225h15.119a3.224,3.224,0,0,1,3.224,3.225Z" data-name="Path 153" transform="translate(-212.158 -0.119)"/><path id="Path_154" fill="#fff" fill-rule="evenodd" d="M349.237,83.577l6.16-4.062-6.16-4.06Z" data-name="Path 154" transform="translate(-279.283 -60.342)"/></g></svg>
