@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="37.468" height="37.468" viewBox="0 0 37.468 37.468">
-  <g id="insta" transform="translate(-159.598 -0.265)">
-    <path id="Path_149" data-name="Path 149" d="M873.834,74.263a4.125,4.125,0,1,0,4.125,4.125,4.129,4.129,0,0,0-4.125-4.125" transform="translate(-695.502 -59.388)" fill="#fff"></path>
-    <path id="Path_151" data-name="Path 151" d="M815.508,1.328a18.734,18.734,0,1,0,18.734,18.734A18.734,18.734,0,0,0,815.508,1.328m12.108,23.95a6.9,6.9,0,0,1-6.893,6.892H810.292a6.9,6.9,0,0,1-6.893-6.892V14.846a6.9,6.9,0,0,1,6.893-6.892h10.432a6.9,6.9,0,0,1,6.893,6.892Z" transform="translate(-637.176 -1.063)" fill="#fff"></path>
-    <circle id="Ellipse_147" data-name="Ellipse 147" cx="1.5" cy="1.5" r="1.5" transform="translate(183.3 10.9)" fill="#fff"></circle>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="37.468" height="37.468" viewBox="0 0 37.468 37.468"><g id="insta" transform="translate(-159.598 -0.265)"><path id="Path_149" fill="#fff" d="M873.834,74.263a4.125,4.125,0,1,0,4.125,4.125,4.129,4.129,0,0,0-4.125-4.125" data-name="Path 149" transform="translate(-695.502 -59.388)"/><path id="Path_151" fill="#fff" d="M815.508,1.328a18.734,18.734,0,1,0,18.734,18.734A18.734,18.734,0,0,0,815.508,1.328m12.108,23.95a6.9,6.9,0,0,1-6.893,6.892H810.292a6.9,6.9,0,0,1-6.893-6.892V14.846a6.9,6.9,0,0,1,6.893-6.892h10.432a6.9,6.9,0,0,1,6.893,6.892Z" data-name="Path 151" transform="translate(-637.176 -1.063)"/><circle id="Ellipse_147" cx="1.5" cy="1.5" r="1.5" fill="#fff" data-name="Ellipse 147" transform="translate(183.3 10.9)"/></g></svg>
