@@ -27,7 +27,7 @@ const Footer = () => {
                   About
                 </Link>
               </h5>
-              <h5 className="text-xl mb-12 font-medium leading-[1.2]">
+              <h5 className=" mb-12 font-medium leading-[1.2]">
                 <Link
                   className="animation-easein-slow shift-to-right"
                   href={'/lifeprocedure'}
@@ -285,7 +285,7 @@ const Footer = () => {
               <ul className="-mt-8 flex flex-col list-none">
                 <li>
                   <Link
-                    className="animation-easein-slow shift-to-right"
+                    className="text-xl animation-easein-slow shift-to-right"
                     href="/privacy-policy/"
                   >
                     Privacy Policy
